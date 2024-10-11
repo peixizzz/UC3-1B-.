@@ -21,8 +21,14 @@ Escreva aqui os conteúdos aprendidos.
 ### Váriaveis
 
 -var = [var function](https://docs.google.com/document/d/1QPSf261FcaRQkm7IZjTIpw2r9vkP4ZTyZfZezFn_W2c/edit?usp=sharing)  
--let =  [let function](https://docs.google.com/document/d/1W-Q4mGJdO1G2_GpLnRM8wAri30XjOnp9Dw0tbgRf7Qo/edit?usp=sharing)
+-let =  [let function](https://docs.google.com/document/d/1W-Q4mGJdO1G2_GpLnRM8wAri30XjOnp9Dw0tbgRf7Qo/edit?usp=sharing)  
+-const =[const function](https://docs.google.com/document/d/1sRSm2aTI9zjrv4EKBHRk0rfG7ZAT-LfW7MLy5okJu68/edit?usp=sharing)  
 
--number = [number function]   
--booleam =  
--array =   
+## String
+
+String é uma sequência de caracteres usada para representar texto. Strings podem incluir letras, números, símbolos e espaços.
+
+let mensagem = "Olá" + "mundo!"  
+console.log(mensagem)
+
+   
